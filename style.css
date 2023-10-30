@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(0, 0, 0);
 }
 p { text-align: center;
-background: #8b1616;
+background: #16568b;
 }
 h1{
-    background: #b91c1c; 
+    background: hsl(209, 89%, 45%); 
 
 text-align: center;
 }
